@@ -1,0 +1,20 @@
+D:\WPF\TextBox Inline\TextBox Inline\bin\Debug\net6.0-windows\TextBox Inline.exe
+D:\WPF\TextBox Inline\TextBox Inline\bin\Debug\net6.0-windows\TextBox Inline.deps.json
+D:\WPF\TextBox Inline\TextBox Inline\bin\Debug\net6.0-windows\TextBox Inline.runtimeconfig.json
+D:\WPF\TextBox Inline\TextBox Inline\bin\Debug\net6.0-windows\TextBox Inline.dll
+D:\WPF\TextBox Inline\TextBox Inline\bin\Debug\net6.0-windows\TextBox Inline.pdb
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\App.g.cs
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline_MarkupCompile.cache
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline_MarkupCompile.lref
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\MainWindow.baml
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.g.resources
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.AssemblyInfoInputs.cache
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.AssemblyInfo.cs
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.csproj.CoreCompileInputs.cache
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.dll
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\refint\TextBox Inline.dll
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.pdb
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\TextBox Inline.genruntimeconfig.cache
+D:\WPF\TextBox Inline\TextBox Inline\obj\Debug\net6.0-windows\ref\TextBox Inline.dll
